@@ -45,5 +45,10 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea/
+.idea/*/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+
+
 upsource-kotlin-bug.iml
