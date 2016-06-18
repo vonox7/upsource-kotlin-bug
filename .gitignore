@@ -46,6 +46,7 @@ crashlytics-build.properties
 fabric.properties
 
 .idea/*/
+!.idea/modules/
 .idea/compiler.xml
 .idea/encodings.xml
 .idea/misc.xml
