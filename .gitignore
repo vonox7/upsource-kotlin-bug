@@ -7,7 +7,6 @@
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
-.idea/vcs.xml
 .idea/jsLibraryMappings.xml
 
 # Sensitive or high-churn files:
@@ -19,7 +18,6 @@
 .idea/uiDesigner.xml
 
 # Gradle:
-.idea/gradle.xml
 .idea/libraries
 
 # Mongo Explorer plugin:
@@ -45,9 +43,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea/*/
-!.idea/modules/
-!.idea/libraries/
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/misc.xml
+#.idea/*/
+
